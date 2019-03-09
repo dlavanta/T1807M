@@ -1,5 +1,7 @@
 package Session1;
 
+import Session2.*;
+
 public class Demo {
     int age;
     static int  abc = 100;
@@ -17,6 +19,13 @@ public class Demo {
         Demo.abc = 20;
         System.out.println(Demo.abc);
         System.out.println(Demo.xyz);
+
+        Thu7 thu7 = new Thu7();
+        thu7.name = "thu 7";
+        thu7.number = 7;
+        thu7.showName();
+        thu7.showNextday(6);
+        Thu7.staticMethod();
     }
 
     public static void plus(){
