@@ -2,6 +2,8 @@ package Session1;
 
 import Session2.*;
 
+import java.util.Scanner;
+
 public class Demo {
     int age;
     static int  abc = 100;
@@ -9,6 +11,18 @@ public class Demo {
 
     public static void main(String[] args){
         int x = 100;
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("nhap 1 so:");
+        int x1 = scanner.nextInt();
+
+        scanner.nextLine();
+
+        System.out.println("nhap 1 chuoi:");
+        String s1 = scanner.nextLine();
+
+
         System.out.println("Hello T1807M");
         plus();
         Demo mainObject;
