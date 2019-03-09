@@ -18,7 +18,6 @@ public class Demo {
         int x1 = scanner.nextInt();
 
         scanner.nextLine();
-
         System.out.println("nhap 1 chuoi:");
         String s1 = scanner.nextLine();
 
