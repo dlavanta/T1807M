@@ -1,0 +1,6 @@
+C:\Users\quanb\RiderProjects\LT1807M\Exam\bin\Debug\Exam.exe
+C:\Users\quanb\RiderProjects\LT1807M\Exam\bin\Debug\Exam.pdb
+C:\Users\quanb\RiderProjects\LT1807M\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\quanb\RiderProjects\LT1807M\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\quanb\RiderProjects\LT1807M\Exam\obj\Debug\Exam.exe
+C:\Users\quanb\RiderProjects\LT1807M\Exam\obj\Debug\Exam.pdb
